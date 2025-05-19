@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/btree/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/buffer/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/storage/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/transaction/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/parser/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/src/utils/cmake_install.cmake",
+		"/Users/advaitpandey/Documents/Projects/obelisk/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libobelisk.a CMakeFiles/obelisk.dir/src/btree/btree.c.o CMakeFiles/obelisk.dir/src/buffer/buffer_pool.c.o CMakeFiles/obelisk.dir/src/storage/storage_engine.c.o CMakeFiles/obelisk.dir/src/transaction/transaction.c.o CMakeFiles/obelisk.dir/src/parser/parser.c.o CMakeFiles/obelisk.dir/src/utils/utils.c.o
+/usr/bin/ranlib libobelisk.a

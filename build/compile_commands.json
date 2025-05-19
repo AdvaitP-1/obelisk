@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/btree/btree.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "output": "CMakeFiles/obelisk.dir/src/btree/btree.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/buffer/buffer_pool.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "output": "CMakeFiles/obelisk.dir/src/buffer/buffer_pool.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/storage/storage_engine.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "output": "CMakeFiles/obelisk.dir/src/storage/storage_engine.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/transaction/transaction.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "output": "CMakeFiles/obelisk.dir/src/transaction/transaction.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/parser/parser.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "output": "CMakeFiles/obelisk.dir/src/parser/parser.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk.dir/src/utils/utils.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "output": "CMakeFiles/obelisk.dir/src/utils/utils.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/example.dir/examples/main.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/examples/main.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/examples/main.c",
+  "output": "CMakeFiles/example.dir/examples/main.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/btree/btree.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/btree/btree.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/buffer/buffer_pool.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/buffer/buffer_pool.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/storage/storage_engine.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/storage/storage_engine.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/transaction/transaction.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/transaction/transaction.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/parser/parser.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/parser/parser.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src",
+  "command": "/usr/bin/cc -DOBELISK_PAGE_SIZE=4096 -DOBELISK_VERSION=\\\"0.1.0\\\" -I/Users/advaitpandey/Documents/Projects/obelisk/include -I/Users/advaitpandey/Documents/Projects/obelisk/src -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_core.dir/utils/utils.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "output": "src/CMakeFiles/obelisk_core.dir/utils/utils.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/btree",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_btree.dir/btree.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/btree/btree.c",
+  "output": "src/btree/CMakeFiles/obelisk_btree.dir/btree.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/buffer",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_buffer.dir/buffer_pool.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/buffer/buffer_pool.c",
+  "output": "src/buffer/CMakeFiles/obelisk_buffer.dir/buffer_pool.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/storage",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_storage.dir/storage_engine.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/storage/storage_engine.c",
+  "output": "src/storage/CMakeFiles/obelisk_storage.dir/storage_engine.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/transaction",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_transaction.dir/transaction.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/transaction/transaction.c",
+  "output": "src/transaction/CMakeFiles/obelisk_transaction.dir/transaction.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/parser",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_parser.dir/parser.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/parser/parser.c",
+  "output": "src/parser/CMakeFiles/obelisk_parser.dir/parser.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/src/utils",
+  "command": "/usr/bin/cc   -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/obelisk_utils.dir/utils.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/src/utils/utils.c",
+  "output": "src/utils/CMakeFiles/obelisk_utils.dir/utils.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/tests",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_obelisk.dir/test_main.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/tests/test_main.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/tests/test_main.c",
+  "output": "tests/CMakeFiles/test_obelisk.dir/test_main.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/tests",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_obelisk.dir/test_btree.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/tests/test_btree.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/tests/test_btree.c",
+  "output": "tests/CMakeFiles/test_obelisk.dir/test_btree.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/tests",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_obelisk.dir/test_buffer_pool.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/tests/test_buffer_pool.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/tests/test_buffer_pool.c",
+  "output": "tests/CMakeFiles/test_obelisk.dir/test_buffer_pool.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/tests",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_obelisk.dir/test_storage.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/tests/test_storage.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/tests/test_storage.c",
+  "output": "tests/CMakeFiles/test_obelisk.dir/test_storage.c.o"
+},
+{
+  "directory": "/Users/advaitpandey/Documents/Projects/obelisk/build/tests",
+  "command": "/usr/bin/cc  -I/Users/advaitpandey/Documents/Projects/obelisk/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -Wall -Wextra -Wpedantic -o CMakeFiles/test_obelisk.dir/test_transaction.c.o -c /Users/advaitpandey/Documents/Projects/obelisk/tests/test_transaction.c",
+  "file": "/Users/advaitpandey/Documents/Projects/obelisk/tests/test_transaction.c",
+  "output": "tests/CMakeFiles/test_obelisk.dir/test_transaction.c.o"
+}
+]
