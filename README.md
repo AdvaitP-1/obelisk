@@ -107,14 +107,3 @@ This project demonstrates understanding of:
 - Concurrent programming concepts
 - ACID transaction properties
 
-## Features
-
-- B-tree based indexing for efficient data retrieval
-- Write-Ahead Logging (WAL) for durability
-- ACID transaction support
-- SQL-like query interface
-- Memory-mapped I/O for improved performance
-- Page-based storage engine
-- Buffer pool management
-- Row-based storage format
-
